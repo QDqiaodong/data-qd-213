@@ -1,0 +1,2 @@
+{"max_residual_nm":"0.1","reference_lines":[{"id":"argon-a","pixel":"0","wavelength_nm":"500"},{"id":"argon-b","pixel":"100","wavelength_nm":"610"},{"id":"argon-c","pixel":"200","wavelength_nm":"740"},{"id":"argon-d","pixel":"300","wavelength_nm":"890"}],"query_pixels":["50","150","250"]}
+
